@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @skblnx
-- 👀 I’m interested in IIoT, industral ethernet applications, automation, operation of secure infrastructure and other development!
+- 👀 I’m interested in IIoT, automation, operation of secure infrastructure and other development!
 - 📫 Feel free to reach out to me at any time via mail at <sebastian -at- kulich -dot- dev>
